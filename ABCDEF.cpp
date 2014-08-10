@@ -10,10 +10,10 @@ using namespace std;
 #define MAX 101
 
 int v[2000000];
+int n, a[MAX];
+int i, j, k, cnt, p, val;
 
 int main() {
-	int n, a[MAX];
-	int i, j, k, cnt, p, val;
 	scanf("%d", &n);
 	cnt = p = 0;
 	for(i=0; i < n; i++) scanf("%d",&a[i]);
