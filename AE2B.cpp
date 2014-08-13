@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AE2B/
-TASK: math
+TAG: math
 */
 
 #include <stdio.h>
