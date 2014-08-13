@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ACPC11C/
-TASK: ad-hoc
+TAG: ad-hoc
 */
 
 //#pragma warning (disable: 4786)
