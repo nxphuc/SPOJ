@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AE00/
-TASK: math
+TAG: math
 */
 
 #include <cstdio>
