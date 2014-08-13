@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ABSYS/
-TASK: Ad-hoc
+TAG: Ad-hoc
 */
 
 #include <cstdio>
