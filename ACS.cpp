@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ACS/
-TASK: simulation
+TAG: simulation
 */
 
 #include <cstdio>
