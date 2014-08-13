@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AMR10G/
-TASK: sorting
+TAG: sorting
 */
 
 #include <cstdio>
