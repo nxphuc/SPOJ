@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANTTT/
-TASK: geometry
+TAG: geometry
 */
 
 #include <cstdio>
