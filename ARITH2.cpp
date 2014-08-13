@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ARITH2/
-TASK: ad-hoc
+TAG: ad-hoc
 */
 
 #include <cstdio>
