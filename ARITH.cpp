@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ARITH/
-TASK: big integer
+TAG: big integer
 */
 
 #include <cstdio>
