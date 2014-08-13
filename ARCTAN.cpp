@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ARCTAN/
-TASK: math
+TAG: math
 NOTE: trickly: "Source limit: 256B"
 */
 
