@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BALLOON/
-TASK: computational geometry
+TAG: computational geometry
 */
 
 #include <iostream>
