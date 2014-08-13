@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BEENUMS/
-TASK: math
+TAG: math
 */
 
 #include <cstdio>
