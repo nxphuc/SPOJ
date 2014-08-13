@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AVION1/
-TASK: ad-hoc
+TAG: ad-hoc
 */
 
 #include <cstdio>
