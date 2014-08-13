@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BINSTIRL/
-TASK: math
+TAG: math
 */
 
 #include <cstdio>
