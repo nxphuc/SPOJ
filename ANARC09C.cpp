@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC09C/
-TASK: math
+TAG: math
 */
 
 #include <cstdio>
