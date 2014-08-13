@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BABTWR/
-TASK: dp
+TAG: dp
 */
 
 #include <cstdio>
