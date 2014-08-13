@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ABCDEF/
-TASK: binary search
+TAG: binary search
 */
 
 #include <cstdio>
