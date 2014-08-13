@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC08I/
-TASK: divide and conquer
+TAG: divide and conquer
 */
 
 #include <cstdio>
