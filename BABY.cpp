@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BABY/
-TASK: mincost maxflow
+TAG: mincost maxflow
 */
 
 #include <cstdio>
