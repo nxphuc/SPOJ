@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BAISED/
-TASK: sorting
+TAG: sorting
 */
 
 #include <cstdio>
