@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANGELS/
-TASK: bipartite matching
+TAG: bipartite matching
 */
 
 #include <cstdio>
