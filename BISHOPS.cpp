@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BISHOPS/
-TASK: ad-hoc, big integer
+TAG: ad-hoc, big integer
 */
 
 #include <cstdio>
