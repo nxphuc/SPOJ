@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BINGO/
-TASL: ad-hoc
+TAG: ad-hoc
 */
 
 #include <set>
