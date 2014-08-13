@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC08A/
-TASK: breadth first search
+TAG: breadth first search
 */
 
 #include <cstdio>
