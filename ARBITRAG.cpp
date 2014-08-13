@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ARBITRAG/
-TASK: warshall
+TAG: warshall
 */
 
 #include <cstdio>
