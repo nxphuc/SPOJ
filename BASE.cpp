@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BASE/
-TASK: base conversion
+TAG: base conversion
 */
 
 #include <cstring>
