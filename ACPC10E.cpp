@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ACPC10E/
-TASK: math
+TAG: math
 */
 
 #include <cstdio>
