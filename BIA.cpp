@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BIA/
-TASK: lenguar tarjan
+TAG: lenguar tarjan
 */
 
 #include <cstdio>
