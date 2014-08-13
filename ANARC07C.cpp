@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC07C/
-TASK: simulation
+TAG: simulation
 */
 
 #include <iostream>
