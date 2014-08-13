@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC08G/
-TASK: ad-hoc
+TAG: ad-hoc
 */
 
 #include <cassert>
