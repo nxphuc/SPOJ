@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ASSIST/
-TASK: simulation
+TAG: simulation
 */
 
 #include <cstdio>
