@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AIBOHP/
-TASK: dynamic programming
+TAG: dynamic programming
 */
 
 #include <cstdio>
