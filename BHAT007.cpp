@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BHAT007/
-TASK: ad-hoc
+TAG: ad-hoc
 */
 
 #include <cstdio>
