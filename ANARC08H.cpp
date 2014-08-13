@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC08H/
-TASK: simulation
+TAG: simulation
 */
 
 #include <cstdio>
