@@ -14,7 +14,7 @@ Result:
   + SPOJ: AC (0.19s)
   + POJ: AC (47MS)
   + UVa: AC (1.192s)
-TASK: ad-hoc, String Processing
+TAG: ad-hoc, String Processing
 */
 
 
