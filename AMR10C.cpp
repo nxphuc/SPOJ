@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AMR10C/
-TASK: math
+TAG: math
 */
 
 #include <cstdio>
