@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AE1B/
-TASK: sorting
+TAG: sorting
 */
 
 #include <cstdio>
