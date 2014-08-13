@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ACPC10D/
-TASK: dynamic programming
+TAG: dynamic programming
 */
 
 #include <cstdio>
