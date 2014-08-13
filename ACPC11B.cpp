@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ACPC11B/
-TASK: binary search
+TAG: binary search
 */
 
 //#pragma warning (disable: 4786)
