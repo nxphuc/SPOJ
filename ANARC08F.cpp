@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC08F/
-TASK: warshall
+TAG: warshall
 */
 
 #include <cassert>
