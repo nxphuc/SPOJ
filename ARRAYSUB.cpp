@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ARRAYSUB/
-TASK: segment tree
+TAG: segment tree
 */
 
 #include <cstdio>
