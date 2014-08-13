@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANDROUND/
-TASK: segment tree
+TAG: segment tree
 */
 
 #include <cmath>
