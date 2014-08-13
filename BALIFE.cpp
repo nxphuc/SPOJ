@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/BALIFE/
-TASK: simulation
+TAG: simulation
 */
 
 #include <cstdio>
