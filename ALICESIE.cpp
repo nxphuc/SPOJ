@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ALICESIE/
-TASK: math
+TAG: math
 */
 
 #include <cstdio>
