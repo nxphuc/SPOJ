@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/ANARC09A/
-TASK: ad-hoc
+TAG: ad-hoc
 */
 
 #include <cstdio>
