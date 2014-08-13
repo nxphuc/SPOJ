@@ -1,6 +1,6 @@
 /*
 LINK: http://www.spoj.com/problems/AGGRCOW/
-TASK: binary search
+TAG: binary search
 */
 
 #include <cassert>
